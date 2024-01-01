@@ -61,7 +61,7 @@
     display: none;
 }
 
-@media screen and (max-width: 420px){
+@media screen and (max-width: 500px){
     *{
         font-size: 12px;
     }
@@ -220,7 +220,7 @@ main{
     transform-origin: bottom left;
 }
 
-@media screen and (max-width: 420px){
+@media screen and (max-width: 500px){
     .description{
         grid-template: repeat(6, 1fr)/ repeat(1, 1fr);
     }
@@ -272,7 +272,7 @@ main{
     text-align: center;
 }
 
-@media screen and (max-width: 420px){
+@media screen and (max-width: 500px){
     .testimonial{
         grid-template: repeat(3, 1fr)/ 1fr;
     }
@@ -347,7 +347,7 @@ main{
     height: 600px;
 }
 
-@media screen and (max-width: 420px){
+@media screen and (max-width: 500px){
     .ProductImage{
         grid-template: repeat(2, 1fr)/ repeat(2, 1fr);
     }
