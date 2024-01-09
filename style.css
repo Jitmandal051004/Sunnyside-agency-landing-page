@@ -70,10 +70,6 @@
         background-image: url(images/mobile/image-header.jpg);
     }
 
-    .navbar nav{
-        display: none;
-    }
-
     .hero .title{
         text-align: center;
     }
@@ -83,6 +79,44 @@
         margin-right: 1em;
         margin-top: -1.6em;
     }
+
+    .openHam{
+        display: none;
+    }
+
+    .openHam:hover,
+    .ham:hover{
+        cursor: pointer;
+    }
+
+    .navList{
+        background-color: whitesmoke;
+        color: black;
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        border-radius: 15px;
+        width: 80%;
+        height: 50vh;
+        padding: 1.25em 1em;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-48%,-76%);
+    }
+
+    .navBtn{
+        font-size: 1.3rem;
+        text-align: center;
+        width: 50%;
+        opacity: 0.5;
+    }
+
+    .navList .Contact{
+        background-color: hsl(51, 100%, 49%);
+        opacity: 1;
+    }
+
 }
 
 main{
