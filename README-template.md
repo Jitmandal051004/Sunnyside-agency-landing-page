@@ -6,15 +6,13 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  <!-- - [Screenshot](#screenshot) -->
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -54,6 +52,6 @@ I would like to bring animation in how the drop-down menu appears in front of us
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Hashnode Blog - [Indrajit Mandal](https://jitm25.hashnode.dev/)
+- Frontend Mentor - [@Jitmandal051004](https://www.frontendmentor.io/profile/Jitmandal051004)
+- Twitter - [@mandal24_jit](https://twitter.com/mandal24_jit)
